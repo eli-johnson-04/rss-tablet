@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
+import json
 
 # configurations for individual venues
 VENUES = {
@@ -35,7 +36,10 @@ def scrape_venue(venue):
 
         full_date = detail_soup.find(attrs={'data-hook': venue['detail']['full_date_hook']})
         image_div = detail_soup.find(attrs={'data-hook': venue['detail']['image_hook']})
-        image_url = image_div.find(attrs={'data-resize': 'cover'}).find('img')['src'] if image_div else None
+        wow_image = image_div.find(attrs={'data-resize': 'cover'}).find('wow-image')
+        image_info = json.loads(wow_image['data-image-info'])
+        uri = image_info['imageData']['uri']
+        image_url = f'https://static.wixstatic.com/media/{uri}'
 
         events.append({
             'title': title.text,
