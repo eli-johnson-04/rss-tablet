@@ -13,9 +13,8 @@ dates = soup.find_all(attrs={'data-hook': 'short-date'})
 
 # set up a new RSS feed generator
 fg = FeedGenerator()
-fg.id('http://localhost:8000/feed.xml')
-fg.title('New Brookland Tavern Events')
-fg.link(href='http://localhost:8000/feed.xml', rel='self')
+fg.id('https://eli-johnson-04.github.io/rss-tablet/feed.xml')
+fg.link(href='https://eli-johnson-04.github.io/rss-tablet/feed.xml', rel='self')
 fg.description('Upcoming events at New Brookland Tavern')
 
 # associated each title and date together and create an XML entry for it
