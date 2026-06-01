@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import json
 
 # configurations for individual venues
@@ -19,9 +19,59 @@ VENUES = {
             'full_date_hook': 'event-full-date',
             'image_hook': 'event-image',
         }
+    },
+    'art_bar': {
+        'name': 'Art Bar',
+        'url': 'https://www.artbarsc.com/events/',
+        'website': 'https://www.artbarsc.com/events/',
+        'maps': 'https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
+        'scraper': 'art_bar'
     }
 }
 
+def get_next_weekday(weekday_name):
+    days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
+    today = datetime.now(timezone.utc)
+    target = days.index(weekday_name.lower())
+    days_ahead = (target - today.weekday()) % 7 or 7
+    return today + timedelta(days=days_ahead)
+
+ART_BAR_WEEKLY = [
+    {
+        'title': 'Improv Comedy',
+        'url': 'https://www.artbarsc.com/event/improv-comedy/',
+        'day': 'Tuesday',
+        'time': '8:00 pm',
+        'image_url': 'https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg',
+    },
+    {
+        'title': 'Karaoke',
+        'url': 'https://www.artbarsc.com/event/karaoke/',
+        'day': 'Wednesday',
+        'time': '8:00 pm',
+        'image_url': 'https://www.artbarsc.com/wp-content/uploads/karaoke.jpg',
+    },
+    {
+        'title': 'Useless Trivia',
+        'url': 'https://www.artbarsc.com/event/trivia/',
+        'day': 'Thursday',
+        'time': '7:00 pm',
+        'image_url': 'https://www.artbarsc.com/wp-content/uploads/useless-trivia-e1748825794656.jpg',
+    },
+]
+
+def scrape_art_bar(venue):
+    events = []
+    for e in ART_BAR_WEEKLY:
+        next_date = get_next_weekday(e['day'])
+        events.append({
+            'title': e['title'],
+            'url': e['url'],
+            'date': f"{e['time']} {e['day']}s (weekly) - next: {next_date.strftime('%b %d')}",
+            'image_url': e['image_url'],
+        })
+    return events
+                     
 # scrape a particular venue according to its config
 def scrape_venue(venue):
     r = requests.get(venue['url'])
@@ -61,7 +111,12 @@ fg.description('Upcoming local events')
 
 # run through all venues and add their events to the feed
 for venue_key, venue in VENUES.items():
-    for event in scrape_venue(venue):
+    if venue.get('scraper') == 'art_bar':
+        events = scrape_art_bar(venue)
+    else:
+        events = scrape_venue(venue)
+
+    for event in events:
         fe = fg.add_entry()
         fe.id(event['url'])
         fe.title(f"[{venue['name']}] {event['title']}")
