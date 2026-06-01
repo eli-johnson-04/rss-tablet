@@ -66,7 +66,11 @@ for venue_key, venue in VENUES.items():
         fe.id(event['url'])
         fe.title(f"[{venue['name']}] {event['title']}")
         fe.link(href=event['url'])
-        fe.description(f"{event['date']}<br>{venue['website']}<br>{venue['maps']}")
+        fe.description(
+            f"{event['date']}<br>"
+            f"<a href=\"{venue['website']}\">Venue Website</a><br>"
+            f"<a href=\"{venue['maps']}\">Google Maps</a>"
+        )
         fe.published(datetime.now(timezone.utc))
         if event['image_url']:
             fe.enclosure(event['image_url'], 0, 'image/jpeg')
