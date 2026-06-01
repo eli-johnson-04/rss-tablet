@@ -9,6 +9,8 @@ VENUES = {
     'new_brookland_tavern': {
         'name': 'New Brookland Tavern',
         'url': 'https://www.newbrooklandtavern.com/',
+        'website': 'https://www.newbrooklandtavern.com/',
+        'maps': 'https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
         'list': {
             'title_hook': 'title',
             'date_hook': 'short-date',
@@ -64,7 +66,7 @@ for venue_key, venue in VENUES.items():
         fe.id(event['url'])
         fe.title(f"[{venue['name']}] {event['title']}")
         fe.link(href=event['url'])
-        fe.description(event['date'])
+        fe.description(f"{event['date']}<br>{venue['website']}<br>{venue['maps']}")
         fe.published(datetime.now(timezone.utc))
         if event['image_url']:
             fe.enclosure(event['image_url'], 0, 'image/jpeg')
