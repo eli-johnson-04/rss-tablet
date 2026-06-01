@@ -39,7 +39,16 @@ VENUES = {
         'name': "Cat's Kettle",
         'url': 'https://www.catskettle.com/calendar',
         'website': 'https://www.catskettle.com/calendar',
+        'base_url': 'https://www.catskettle.com',
         'maps': 'https://www.google.com/maps/place/Cat%E2%80%99s+Kettle-+Gourmet+Delicatessen/@33.9998131,-81.0377782,956m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bbe24f2403d5:0x21d540109388cd8!8m2!3d33.9998087!4d-81.0352033!16s%2Fg%2F11xn635b2p?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
+        'scraper': 'squarespace'
+    },
+    'colajazz': {
+        'name': 'ColaJazz',
+        'url': 'https://www.colajazz.com/events',
+        'website': 'https://www.colajazz.com/events',
+        'base_url': 'https://www.colajazz.com',
+        'maps': 'https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
         'scraper': 'squarespace'
     },
 }
@@ -161,7 +170,7 @@ def scrape_squarespace_venue(venue):
 
         events.append({
             'title': title_el.text.strip(),
-            'url': f"https://www.catskettle.com{title_el['href']}",
+            'url': venue['base_url'] + title_el['href'],
             'date': full_date,
             'image_url': image_url,
             'parsed_date': parsed_date,
