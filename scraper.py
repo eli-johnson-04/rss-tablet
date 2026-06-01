@@ -89,12 +89,13 @@ def scrape_art_bar(venue):
     events = []
     for e in ART_BAR_WEEKLY:
         next_date = get_next_weekday(e['day'])
+        time_obj = datetime.strptime(e['time'], "%I:%M %p").time()
         events.append({
             'title': e['title'],
             'url': e['url'],
             'date': f"{e['time']} {e['day']}s (weekly)",
             'image_url': e['image_url'],
-            'parsed_date': datetime.combine(next_date, datetime.min.time()).replace(tzinfo=timezone.utc),
+            'parsed_date': datetime.combine(next_date, time_obj).replace(tzinfo=timezone.utc),
         })
     return events
                      
@@ -156,13 +157,13 @@ def scrape_squarespace_venue(venue):
             continue
 
         date_str = date_el.get('datetime')
-        time_str = time_el.text.strip() if time_el else ''
-        full_date = f"{date_el.text.strip()} {time_str}".strip()
+        time_str = time_el.text.strip() if time_el else '12:00 AM'
+        combined = f"{date_str} {time_str}"
 
         try:
-            parsed_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            parsed_date = datetime.strptime(combined, "%Y-%m-%d %I:%M %p").replace(tzinfo=timezone.utc)
         except ValueError:
-            parsed_date = datetime.now(timezone.utc)
+            parsed_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
 
         image_url = None
         if img_el and img_el.get('src'):
@@ -171,7 +172,7 @@ def scrape_squarespace_venue(venue):
         events.append({
             'title': title_el.text.strip(),
             'url': venue['base_url'] + title_el['href'],
-            'date': full_date,
+            'date': combined,
             'image_url': image_url,
             'parsed_date': parsed_date,
         })
