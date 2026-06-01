@@ -28,12 +28,19 @@ VENUES = {
         'maps': 'https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
         'scraper': 'art_bar'
     },
-    'the_spaze': {
-        'name': 'The Spaze',
-        'url': 'https://thelooneybinsc.bigcartel.com/',
-        'website': 'https://thelooneybinsc.bigcartel.com/',
-        'maps': 'https://www.google.com/maps/place/The+Spaze/@33.977909,-81.0157564,1913m/data=!3m1!1e3!4m6!3m5!1s0x88f8bbed58718737:0x4ff9d0c1de7350b!8m2!3d33.9802268!4d-81.0101548!16s%2Fg%2F11wv2m229q?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
-        'scraper': 'bigcartel'
+    # 'the_spaze': {
+    #     'name': 'The Spaze',
+    #     'url': 'https://thelooneybinsc.bigcartel.com/',
+    #     'website': 'https://thelooneybinsc.bigcartel.com/',
+    #     'maps': 'https://www.google.com/maps/place/The+Spaze/@33.977909,-81.0157564,1913m/data=!3m1!1e3!4m6!3m5!1s0x88f8bbed58718737:0x4ff9d0c1de7350b!8m2!3d33.9802268!4d-81.0101548!16s%2Fg%2F11wv2m229q?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
+    #     'scraper': 'bigcartel'
+    # },
+    'cats_kettle': {
+        'name': "Cat's Kettle",
+        'url': 'https://www.catskettle.com/calendar',
+        'website': 'https://www.catskettle.com/calendar',
+        'maps': 'https://www.google.com/maps/place/Cat%E2%80%99s+Kettle-+Gourmet+Delicatessen/@33.9998131,-81.0377782,956m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bbe24f2403d5:0x21d540109388cd8!8m2!3d33.9998087!4d-81.0352033!16s%2Fg%2F11xn635b2p?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D',
+        'scraper': 'squarespace'
     },
 }
 
@@ -76,7 +83,7 @@ def scrape_art_bar(venue):
         events.append({
             'title': e['title'],
             'url': e['url'],
-            'date': f"{e['time']} {e['day']}s (weekly) - next: {next_date.strftime('%b %d')}",
+            'date': f"{e['time']} {e['day']}s (weekly)",
             'image_url': e['image_url'],
             'parsed_date': datetime.combine(next_date, datetime.min.time()).replace(tzinfo=timezone.utc),
         })
@@ -125,6 +132,43 @@ def scrape_bigcartel_venue(venue):
         })
     return events
 
+def scrape_squarespace_venue(venue):
+    r = requests.get(venue['url'])
+    soup = BeautifulSoup(r.text, 'html.parser')
+    events = []
+
+    for article in soup.select('article.eventlist-event--upcoming'):
+        title_el = article.select_one('.eventlist-title-link')
+        date_el = article.select_one('time.event-date')
+        time_el = article.select_one('time.event-time-localized-start')
+        img_el = article.select_one('img')
+
+        if not title_el or not date_el:
+            continue
+
+        date_str = date_el.get('datetime')
+        time_str = time_el.text.strip() if time_el else ''
+        full_date = f"{date_el.text.strip()} {time_str}".strip()
+
+        try:
+            parsed_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            parsed_date = datetime.now(timezone.utc)
+
+        image_url = None
+        if img_el and img_el.get('src'):
+            image_url = img_el['src'].split('?')[0]
+
+        events.append({
+            'title': title_el.text.strip(),
+            'url': f"https://www.catskettle.com{title_el['href']}",
+            'date': full_date,
+            'image_url': image_url,
+            'parsed_date': parsed_date,
+        })
+
+    return events
+
 # create the feed
 fg = FeedGenerator()
 fg.id('https://eli-johnson-04.github.io/rss-tablet/feed.xml')
@@ -141,6 +185,8 @@ for venue_key, venue in VENUES.items():
             events = scrape_bigcartel_venue(venue)
         case 'wix':
             events = scrape_wix_venue(venue)
+        case 'squarespace':
+            events = scrape_squarespace_venue(venue)
 
     for event in events:
         fe = fg.add_entry()
