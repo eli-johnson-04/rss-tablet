@@ -31,10 +31,11 @@ VENUES = {
 
 def get_next_weekday(weekday_name):
     days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
-    today = datetime.now(timezone.utc)
+    today = datetime.now(timezone.utc).date()
     target = days.index(weekday_name.lower())
-    days_ahead = (target - today.weekday()) % 7 or 7
-    return today + timedelta(days=days_ahead)
+    days_ahead = (target - today.weekday()) % 7
+    next_date = today + timedelta(days=days_ahead)
+    return next_date
 
 ART_BAR_WEEKLY = [
     {
@@ -69,6 +70,7 @@ def scrape_art_bar(venue):
             'url': e['url'],
             'date': f"{e['time']} {e['day']}s (weekly) - next: {next_date.strftime('%b %d')}",
             'image_url': e['image_url'],
+            'next_date': next_date
         })
     return events
                      
@@ -126,7 +128,12 @@ for venue_key, venue in VENUES.items():
             f"<a href=\"{venue['website']}\">Venue Website</a><br>"
             f"<a href=\"{venue['maps']}\">Google Maps</a>"
         )
-        fe.published(datetime.now(timezone.utc))
+        match venue_key:
+            case 'new_brookland_tavern':
+                parsed_date = datetime.strptime(event['date'], "%b %d, %Y, %I:%M %p").replace(tzinfo=timezone.utc)
+            case 'art_bar':
+                parsed_date = datetime.combine(event['next_date'], datetime.min.time()).replace(tzinfo=timezone.utc)
+        fe.published(parsed_date)
         if event['image_url']:
             fe.enclosure(event['image_url'], 0, 'image/jpeg')
 
