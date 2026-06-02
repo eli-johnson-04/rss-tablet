@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 15:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:01:56 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] LOFT SESSIONS: NOLAN TECKLENBURG TRIO</title>
       <link>https://www.colajazz.com/events/loft-sept21-nolan-tecklenburg</link>
@@ -47,6 +47,14 @@
       <guid isPermaLink="false">https://www.colajazz.com/events/middle-high-school-summer-jazz-camp</guid>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1779213030436-RAHRN1CRHO72TTEKAGFI/2026+kids+jazz+camp.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Strings &amp; Swing</title>
+      <link>https://www.colajazz.com/events/2nd-thursday-jazz-june</link>
+      <description>2026-06-11 5:30 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/2nd-thursday-jazz-june</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1780336687965-XV6UBESNZDXPGNVFSM2T/villa+tronco+colajazz+june.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[ColaJazz] DJ SPIN LAB</title>
