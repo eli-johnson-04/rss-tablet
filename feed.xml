@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 12:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:39:35 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] LOFT SESSIONS: NOLAN TECKLENBURG TRIO</title>
       <link>https://www.colajazz.com/events/loft-sept21-nolan-tecklenburg</link>
@@ -97,14 +97,6 @@
       <pubDate>Wed, 03 Jun 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[ColaJazz] LOFT SESSIONS: PETE NEIGHBOUR QUARTET</title>
-      <link>https://www.colajazz.com/events/loft-jun1-pete-neighbour</link>
-      <description>2026-06-01 7:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.colajazz.com/events/loft-jun1-pete-neighbour</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1769200200289-RAHWS84QO0W0V1LJICF6/Loft+Sessions+%285%29.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jun 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Cat's Kettle] Naum, Kimber, 86 Hope- Original Music</title>
       <link>https://www.catskettle.com/calendar/naum-kimber-86-hope</link>
       <description>2026-06-25 7:00 PM&lt;br&gt;&lt;a href="https://www.catskettle.com/calendar"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Cat%E2%80%99s+Kettle-+Gourmet+Delicatessen/@33.9998131,-81.0377782,956m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bbe24f2403d5:0x21d540109388cd8!8m2!3d33.9998087!4d-81.0352033!16s%2Fg%2F11xn635b2p?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
@@ -142,7 +134,7 @@
       <description>8:00 pm Tuesdays (weekly)&lt;br&gt;&lt;a href="https://www.artbarsc.com/events/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.artbarsc.com/event/improv-comedy/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 20:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[New Brookland Tavern] BIG D AND THE KIDS TABLE w/ Matamoska</title>
