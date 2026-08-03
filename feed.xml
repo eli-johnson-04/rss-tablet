@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 09:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:17:34 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Sinatra</title>
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-dec10</link>
@@ -71,22 +71,6 @@
       <guid isPermaLink="false">https://www.colajazz.com/events/loft-aug10</guid>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1784688767200-DXY5WDGJR6QA6JUMP16D/Aug+10+Loft+Session+presented+by+the+Brush+Cousins.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ColaJazz] Alone Together: KeyS &amp; Conversations featuring ABDIEL IRIARTE</title>
-      <link>https://www.colajazz.com/events/piano-concert-abdiel-iriarte</link>
-      <description>2026-08-02 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.colajazz.com/events/piano-concert-abdiel-iriarte</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1784682488065-5W1FBC9SPQ7JM82WNJR5/Alone+Together+Solo+Piano+Concerts.png" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ColaJazz] Jazz in the Park</title>
-      <link>https://www.colajazz.com/events/jazz-in-the-park-july-31</link>
-      <description>2026-07-31 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.colajazz.com/events/jazz-in-the-park-july-31</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1784602964131-X8ZB2K3KJZ0MZ35NOD9Q/Jazz+in+the+Park+July+31st+%281%29.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Art Bar] Useless Trivia</title>
