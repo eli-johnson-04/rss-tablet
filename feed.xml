@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 08:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:34:04 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Sinatra</title>
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-dec10</link>
@@ -105,10 +105,10 @@
       <pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[New Brookland Tavern] MONOLORD + KHEMMIS</title>
-      <link>https://www.newbrooklandtavern.com/event-details/monolord-khemmis</link>
+      <title>[New Brookland Tavern] MONOLORD + KHEMMIS (cancelled)</title>
+      <link>https://www.newbrooklandtavern.com/event-details/monolord-khemmis-cancelled</link>
       <description>Aug 31, 2026, 6:00 PM&lt;br&gt;&lt;a href="https://www.newbrooklandtavern.com/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/monolord-khemmis</guid>
+      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/monolord-khemmis-cancelled</guid>
       <enclosure url="https://static.wixstatic.com/media/331926_92615918794f4f898c16a41c73221dad~mv2.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
     </item>
