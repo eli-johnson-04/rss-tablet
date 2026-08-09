@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 08:34:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:35:57 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Sinatra</title>
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-dec10</link>
@@ -33,12 +33,36 @@
       <pubDate>Thu, 08 Oct 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ColaJazz] Jazz Keller: Greg &amp; Amos Quartet</title>
+      <link>https://www.colajazz.com/events/jazzkeller-923</link>
+      <description>2026-09-23 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/jazzkeller-923</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1786217268368-V5RS7Z1IFHCRKYPUVL0F/Jazzkeller+at+bierkeller+by+colajazz+923.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ColaJazz] LOFT SESSIONS: NOLAN TECKLENBURG TRIO</title>
       <link>https://www.colajazz.com/events/loft-sept21-nolan-tecklenburg</link>
       <description>2026-09-21 7:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.colajazz.com/events/loft-sept21-nolan-tecklenburg</guid>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/a385443e-40fa-4613-acfc-323aa39f38a1/Loft+Sessions+%288%29.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Sep 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] Jazz Keller: Fall 2026</title>
+      <link>https://www.colajazz.com/events/jazzkeller-fall2026</link>
+      <description>2026-09-16 12:00 AM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/jazzkeller-fall2026</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1786215569729-ROUWJMJFN52S97CTMYE3/bierkeller+jazzkeller+fall+2026.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] Jazz Keller: Flat Out Strangers</title>
+      <link>https://www.colajazz.com/events/jazzkeller-916-36cta</link>
+      <description>2026-09-16 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/jazzkeller-916-36cta</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1786217268368-V5RS7Z1IFHCRKYPUVL0F/Jazzkeller+at+bierkeller+by+colajazz+923.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ColaJazz] Inside the Section: The Little Big Band Residency</title>
