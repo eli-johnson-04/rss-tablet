@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 08:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:30:10 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Sinatra</title>
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-dec10</link>
@@ -119,6 +119,14 @@
       <guid isPermaLink="false">https://www.artbarsc.com/event/improv-comedy/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[New Brookland Tavern] EL OBO (Jesse from Colour Revolt) w/ Rod Smoth, TBA guest + Ben Walker</title>
+      <link>https://www.newbrooklandtavern.com/event-details/el-obo-jesse-from-colour-revolt-w-rod-smoth-tba-guest-ben-walker</link>
+      <description>Sep 25, 2026, 7:00 PM&lt;br&gt;&lt;a href="https://www.newbrooklandtavern.com/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/el-obo-jesse-from-colour-revolt-w-rod-smoth-tba-guest-ben-walker</guid>
+      <enclosure url="https://static.wixstatic.com/media/331926_c11295c4007c4ea89e5389013a07eabf~mv2.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[New Brookland Tavern] BIG D AND THE KIDS TABLE w/ Matamoska</title>
