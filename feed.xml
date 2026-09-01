@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 15:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:59:49 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Jazz for Kids (ESPAÑOL)</title>
       <link>https://www.colajazz.com/events/2027-jazz-for-kids-espanol</link>
@@ -39,6 +39,14 @@
       <guid isPermaLink="false">https://www.colajazz.com/events/2nd-thursday-jazz-nov12</guid>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1785525758408-MI7CQQ8VGGAR6UWHV6Y5/villa+tronco+colajazz+november.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] Crescent City Voodoo – A New Orleans Masquerade</title>
+      <link>https://www.colajazz.com/events/halloween-jazz-2026</link>
+      <description>2026-10-30 7:30 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/halloween-jazz-2026</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/3a3c47fd-0618-45a7-a5f2-8de888f0c2c3/crescent+city+voodoo+2026+halloween+jazz.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 19:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Monk &amp; Miles</title>
@@ -109,7 +117,7 @@
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-sept10</link>
       <description>2026-09-10 5:30 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.colajazz.com/events/2nd-thursday-jazz-sept10</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1787674402786-5PZF4C4KXNFKDPRALBP7/Villa+Tronco+Sept.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1788230166875-8KKMB95YZR8AECGHF8YO/villa+tronco+sept+10.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/big-d-and-the-kids-table-w-matamoska</guid>
       <enclosure url="https://static.wixstatic.com/media/331926_3d3bbaef741f488580de0a443836c783~mv2.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[New Brookland Tavern] MONOLORD + KHEMMIS (cancelled)</title>
-      <link>https://www.newbrooklandtavern.com/event-details/monolord-khemmis-cancelled</link>
-      <description>Aug 31, 2026, 6:00 PM&lt;br&gt;&lt;a href="https://www.newbrooklandtavern.com/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/monolord-khemmis-cancelled</guid>
-      <enclosure url="https://static.wixstatic.com/media/331926_92615918794f4f898c16a41c73221dad~mv2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
