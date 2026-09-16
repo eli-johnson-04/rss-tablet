@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 13:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:02:18 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Jazz for Kids (ESPAÑOL)</title>
       <link>https://www.colajazz.com/events/2027-jazz-for-kids-espanol</link>
@@ -33,6 +33,14 @@
       <pubDate>Thu, 10 Dec 2026 17:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ColaJazz] LOFT SESSIONS: Tutu D'Vyne</title>
+      <link>https://www.colajazz.com/events/loft-nov16-tutu</link>
+      <description>2026-11-16 7:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/loft-nov16-tutu</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1789501328343-U59Y7796KHIJG2ZG6A17/Loft+Sessions+Tutu+DVyne+-+Square.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Minor Swing</title>
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-nov12</link>
       <description>2026-11-12 5:30 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
@@ -47,6 +55,14 @@
       <guid isPermaLink="false">https://www.colajazz.com/events/halloween-jazz-2026</guid>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/3a3c47fd-0618-45a7-a5f2-8de888f0c2c3/crescent+city+voodoo+2026+halloween+jazz.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Oct 2026 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] LOFT SESSIONS: Jamie Wright</title>
+      <link>https://www.colajazz.com/events/loft-oct12-jamie-wright</link>
+      <description>2026-10-12 7:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/loft-oct12-jamie-wright</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/c8570d0f-dc85-45a8-8af9-76ceade5e6da/Loft+Sessions+Jamie+Wright.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Monk &amp; Miles</title>
@@ -134,7 +150,7 @@
       <description>8:00 pm Tuesdays (weekly)&lt;br&gt;&lt;a href="https://www.artbarsc.com/events/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.artbarsc.com/event/improv-comedy/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Sep 2026 20:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[New Brookland Tavern] EL OBO (Jesse from Colour Revolt) w/ Rod Smoth, TBA guest + Ben Walker</title>
