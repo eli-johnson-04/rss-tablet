@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 13:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:59:47 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Jazz for Kids (ESPAÑOL)</title>
       <link>https://www.colajazz.com/events/2027-jazz-for-kids-espanol</link>
@@ -65,12 +65,28 @@
       <pubDate>Mon, 12 Oct 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ColaJazz] Jazz in the Park - OCT 9th</title>
+      <link>https://www.colajazz.com/events/jazz-in-the-park-oct9</link>
+      <description>2026-10-09 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/jazz-in-the-park-oct9</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1789587964171-A8GGWGXQ6GCI8SKLN04Q/jazz+in+the+park+oct+9+colajazz.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ColaJazz] 2nd Thursday Jazz DInner Series: Monk &amp; Miles</title>
       <link>https://www.colajazz.com/events/2nd-thursday-jazz-oct8</link>
       <description>2026-10-08 5:30 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.colajazz.com/events/2nd-thursday-jazz-oct8</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1785525882875-IU11VXQD2EISLG3ZOVOG/villa+tronco+colajazz+october.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1789582877969-SLBV7TWOK8QJEOEML28O/Villa+Tronco+Oct+8.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] Chords &amp; Conversations: Iliana Rose</title>
+      <link>https://www.colajazz.com/events/chords-oct4</link>
+      <description>2026-10-04 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/chords-oct4</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1789577500337-PED51Z95G4ZIKKPWQ5KB/alone+together+iliana+rose+oct+4.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ColaJazz] Jazz Keller: Greg &amp; Amos Quartet</title>
@@ -113,14 +129,6 @@
       <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[ColaJazz] Inside the Section: The Little Big Band Residency</title>
-      <link>https://www.colajazz.com/events/inside-the-section-fall-2026</link>
-      <description>2026-09-14 12:00 AM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.colajazz.com/events/inside-the-section-fall-2026</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1784920136438-EE4E798HATDHV2U2W9C6/Bryson+Borgstedt+Reading+Band.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[ColaJazz] Jazz on Carlisle</title>
       <link>https://www.colajazz.com/events/jazz-on-carlisle</link>
       <description>2026-09-03 12:00 AM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
@@ -142,7 +150,7 @@
       <description>8:00 pm Wednesdays (weekly)&lt;br&gt;&lt;a href="https://www.artbarsc.com/events/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.artbarsc.com/event/karaoke/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/karaoke.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 20:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Art Bar] Improv Comedy</title>
