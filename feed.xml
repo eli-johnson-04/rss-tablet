@@ -7,7 +7,15 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 13:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:37:29 +0000</lastBuildDate>
+    <item>
+      <title>[ColaJazz] 2027 Adult COLAJazz Camp</title>
+      <link>https://www.colajazz.com/events/adult-jazz-camp-2027</link>
+      <description>2027-07-22 12:00 AM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/adult-jazz-camp-2027</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/d981511c-52cf-47d2-a83f-335a5908eb8f/2027+Adult+Jazz+Camp+Square+Ad+v2.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jul 2027 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[ColaJazz] 2027 Jazz for Kids (ESPAÑOL)</title>
       <link>https://www.colajazz.com/events/2027-jazz-for-kids-espanol</link>
