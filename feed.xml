@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 13:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:43:42 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Adult COLAJazz Camp</title>
       <link>https://www.colajazz.com/events/adult-jazz-camp-2027</link>
@@ -21,7 +21,7 @@
       <link>https://www.colajazz.com/events/2027-jazz-for-kids-espanol</link>
       <description>2027-02-10 10:30 AM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.colajazz.com/events/2027-jazz-for-kids-espanol</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1787849086852-BB5HF4X55H76QNAKNW3K/jazz+for+kids+feb+10+2027+colajazz+koger+center.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/103ebadb-9682-41a8-b10d-f46e204d8e29/jazz+for+kids+pcfcu+sponsor.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Feb 2027 10:30:00 +0000</pubDate>
     </item>
     <item>
@@ -29,7 +29,7 @@
       <link>https://www.colajazz.com/events/2027-jazz-for-kids</link>
       <description>2027-02-10 10:30 AM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.colajazz.com/events/2027-jazz-for-kids</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1787849086852-BB5HF4X55H76QNAKNW3K/jazz+for+kids+feb+10+2027+colajazz+koger+center.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/39d1356d-b271-4e54-9690-7c9729b0896a/jazz+for+kids+spanish.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Feb 2027 10:30:00 +0000</pubDate>
     </item>
     <item>
@@ -87,14 +87,6 @@
       <guid isPermaLink="false">https://www.colajazz.com/events/2nd-thursday-jazz-oct8</guid>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1789582877969-SLBV7TWOK8QJEOEML28O/Villa+Tronco+Oct+8.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ColaJazz] Chords &amp; Conversations: Iliana Rose</title>
-      <link>https://www.colajazz.com/events/chords-oct4</link>
-      <description>2026-10-04 6:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.colajazz.com/events/chords-oct4</guid>
-      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1789577500337-PED51Z95G4ZIKKPWQ5KB/alone+together+iliana+rose+oct+4.png" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 04 Oct 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ColaJazz] Jazz Keller: Fall 2026</title>
