@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 14:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:00:34 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Adult COLAJazz Camp</title>
       <link>https://www.colajazz.com/events/adult-jazz-camp-2027</link>
@@ -73,6 +73,22 @@
       <pubDate>Fri, 30 Oct 2026 19:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ColaJazz] CHapin Jazz Night</title>
+      <link>https://www.colajazz.com/events/chapin-jazz-night-oct16</link>
+      <description>2026-10-16 7:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/chapin-jazz-night-oct16</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1791320771624-T3XG0BXJUCTTC8HOG35J/Chapin+Jazz+Night+Oct+16.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ColaJazz] Live in the Lobby: Pasquale Grasso Trio</title>
+      <link>https://www.colajazz.com/events/pasquale-grasso</link>
+      <description>2026-10-15 7:30 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.colajazz.com/events/pasquale-grasso</guid>
+      <enclosure url="https://images.squarespace-cdn.com/content/v1/66eaa51262da7450e6327865/1791319504179-TFSVT2IQAIFPTUH2B33T/2026Jazz_PasqualeGrasso1600x900-scaled-2400x0-c-default.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 15 Oct 2026 19:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ColaJazz] LOFT SESSIONS: Jamie Wright</title>
       <link>https://www.colajazz.com/events/loft-oct12-jamie-wright</link>
       <description>2026-10-12 7:00 PM&lt;br&gt;&lt;a href="https://www.colajazz.com/events"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/ColaJazz+Foundation/@34.0020403,-81.0165515,239m/data=!3m1!1e3!4m6!3m5!1s0x88f8bb7b1aa15de7:0xf140db18553f8908!8m2!3d34.0021127!4d-81.016152!16s%2Fg%2F11rr28ljw4?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
@@ -134,7 +150,7 @@
       <description>8:00 pm Tuesdays (weekly)&lt;br&gt;&lt;a href="https://www.artbarsc.com/events/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.artbarsc.com/event/improv-comedy/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[New Brookland Tavern] AZSHARA, Heavens Die, Rakshasa, Sonder.exe, Waste of Space (Augusta, GA)</title>
