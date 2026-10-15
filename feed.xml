@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 13:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:01:31 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Adult COLAJazz Camp</title>
       <link>https://www.colajazz.com/events/adult-jazz-camp-2027</link>
@@ -126,7 +126,7 @@
       <description>8:00 pm Wednesdays (weekly)&lt;br&gt;&lt;a href="https://www.artbarsc.com/events/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.artbarsc.com/event/karaoke/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/karaoke.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Art Bar] Improv Comedy</title>
@@ -135,6 +135,14 @@
       <guid isPermaLink="false">https://www.artbarsc.com/event/improv-comedy/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 20 Oct 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[New Brookland Tavern] Strawberry Girls, Andres, Novumora, Bad Association </title>
+      <link>https://www.newbrooklandtavern.com/event-details/strawberry-girls-andres-novumora-bad-association</link>
+      <description>Nov 08, 2026, 6:00 PM&lt;br&gt;&lt;a href="https://www.newbrooklandtavern.com/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/strawberry-girls-andres-novumora-bad-association</guid>
+      <enclosure url="https://static.wixstatic.com/media/331926_88b511aa9b1349d99c16251bfb29bd20~mv2.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[New Brookland Tavern] AZSHARA, Heavens Die, Rakshasa, Sonder.exe, Waste of Space (Augusta, GA)</title>
