@@ -7,7 +7,7 @@
     <atom:link href="https://eli-johnson-04.github.io/rss-tablet/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 18:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:47:17 +0000</lastBuildDate>
     <item>
       <title>[ColaJazz] 2027 Adult COLAJazz Camp</title>
       <link>https://www.colajazz.com/events/adult-jazz-camp-2027</link>
@@ -54,7 +54,7 @@
       <description>7:00 pm Thursdays (weekly)&lt;br&gt;&lt;a href="https://www.artbarsc.com/events/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/Art+Bar/@34.0006994,-81.0400209,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb2c7a559d3b:0x633d2ae568b7f162!8m2!3d34.000695!4d-81.037446!16s%2Fm%2F0k56sry?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.artbarsc.com/event/trivia/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/useless-trivia-e1748825794656.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Nov 2026 19:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Dec 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Art Bar] Karaoke</title>
@@ -71,6 +71,22 @@
       <guid isPermaLink="false">https://www.artbarsc.com/event/improv-comedy/</guid>
       <enclosure url="https://www.artbarsc.com/wp-content/uploads/AdobeStock_1293354954-1600x953.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Dec 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[New Brookland Tavern] Rejectioneers, Homemade Haircuts, Miles McCollum</title>
+      <link>https://www.newbrooklandtavern.com/event-details/rejectioneers-homemade-haircuts-miles-mccollum</link>
+      <description>Jan 09, 2027, 7:00 PM&lt;br&gt;&lt;a href="https://www.newbrooklandtavern.com/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/rejectioneers-homemade-haircuts-miles-mccollum</guid>
+      <enclosure url="https://static.wixstatic.com/media/331926_1750412828be494c9c56227913584d99~mv2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 09 Jan 2027 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[New Brookland Tavern] EMO NIGHT CHRISTMAS</title>
+      <link>https://www.newbrooklandtavern.com/event-details/emo-night-christmas</link>
+      <description>Dec 10, 2026, 7:00 PM&lt;br&gt;&lt;a href="https://www.newbrooklandtavern.com/"&gt;Venue Website&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/maps/place/New+Brookland+Tavern/@33.9983504,-81.0178011,1913m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88f8bb462cc265d9:0x974ae781d0a085fa!8m2!3d33.998346!4d-81.0152262!16zL20vMGN5Y2xo?entry=ttu&amp;g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"&gt;Google Maps&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.newbrooklandtavern.com/event-details/emo-night-christmas</guid>
+      <enclosure url="https://static.wixstatic.com/media/331926_dcb8a612ac5b4042b2df1174ff286c55~mv2.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Dec 2026 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
